@@ -1,0 +1,10 @@
+.arrow-icon-area {
+    padding: 10px;
+}
+.categories-card:hover .arrow-icon {
+    fill: #fff;
+}
+.categories-card:hover .arrow-icon-area {
+    
+    background-color: #20B486;
+}

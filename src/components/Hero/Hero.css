@@ -1,0 +1,58 @@
+.hero-container {
+    width: 100%;
+    padding: 99px 0;
+    background-color: #fff;
+}
+
+.inner-hero-container {
+    max-width: 1480px;
+    width: 100%;
+    padding-inline: 16px;
+}
+
+.inner-hero-container .upper-text {
+    color: var(--Primary-500, #20B486);
+    font-family: "Public Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.048px;
+}
+.inner-hero-container h1 {
+    color: var(--Primary-900, #06241B);
+    font-family: "Public Sans";
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px;
+}
+.inner-hero-container h1 span{
+    color: var(--Primary-500, #20B486);
+
+}
+.inner-hero-container .lower-text {
+    color: var(--Gray-500, #6D737A);
+
+    /* Body/Large/400 */
+    font-family: "Public Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 140% */
+}
+.inner-hero-container .hero-form {
+    border-radius: 8px;
+    background: var(--Gray-White, #FFF);
+    padding: 24px;
+
+}
+.hero-form input {
+    color: var(--Gray-500, #6D737A);
+    width: 60%;
+/* Body/Regular/400 */
+    font-family: "Public Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+}

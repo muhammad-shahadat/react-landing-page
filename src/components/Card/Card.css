@@ -1,0 +1,25 @@
+.card {
+    margin: 50px 10px;
+}
+.card h2 {
+    overflow: hidden;
+    color: var(--Gray-700, #363A3D);
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: "Public Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+}
+.card h4 {
+
+    color: var(--Gray-Black, #1B1D1F);
+    font-family: "Public Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.048px;
+
+}
