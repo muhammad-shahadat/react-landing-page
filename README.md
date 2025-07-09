@@ -37,28 +37,12 @@ This is a **frontend practice project** — a responsive landing page built usin
 - **JavaScript (ES6)**
 - **CSS (Custom)**
 - **Tailwind css**
--**Slick carousel**
+- **Slick carousel**
 - **Netlify** for deployment
 - **GitHub** for version control
 
 ---
 
-
-## Project structure
-landing_page/
-├── public/
-├── src/
-| ├──data/  
-| ├── assets/         
-│ ├── components/  
-│ ├── App.jsx
-│ └── main.jsx
-├── .gitignore
-├── package.json
-├── vite.config.js
-└── README.md
-
----
 
 ## 🚀 Getting Started Locally
 
